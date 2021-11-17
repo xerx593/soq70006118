@@ -9,7 +9,7 @@ A simple spring-boot application, which:
 
 Inspect/Adjust:
 
-[`src/main/resources/main/hsqldb.properties`](https://github.com/xerx593/soq70006118/blob/main/src/main/resources/hsqldb.properties)
+[`src/main/resources/main/hsqldb.properties`](src/main/resources/hsqldb.properties)
 
 Execute with:
 
